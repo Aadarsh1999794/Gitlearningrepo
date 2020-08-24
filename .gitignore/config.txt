@@ -1,0 +1,2 @@
+this is part of ignore file 
+this part will not upload in github 
