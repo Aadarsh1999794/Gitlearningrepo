@@ -4,3 +4,5 @@ if x%2==0:
 else :
     print("odd number")
     
+print("done with even odd")
+print("wait what about another loop")
